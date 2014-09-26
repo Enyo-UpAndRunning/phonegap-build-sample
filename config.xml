@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.roysutton.enyoupandrunning"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Enyo PhoneGap Example</name>
+
+    <description>
+        An example Enyo app for Enyo: Up and Running
+    </description>
+
+    <author href="https://roysutton.com">
+        Roy Sutton
+    </author>
+
+</widget>
